@@ -1,7 +1,14 @@
 {
   "name": "SaveDeleted",
-  "version": "1.0.0",
   "description": "Save deleted messages locally",
-  "author": "Osayuk1",
-  "main": "index.ts"
+  "authors": [
+    {
+      "name": "Osayuk1",
+      "id": "YOUR_ID_HERE"
+    }
+  ],
+  "main": "src/index.ts",
+  "vendetta": {
+    "icon": "ic_badge_staff"
+  }
 }
