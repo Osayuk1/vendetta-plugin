@@ -1,0 +1,7 @@
+{
+  "name": "SaveDeleted",
+  "version": "1.0.0",
+  "description": "Save deleted messages locally",
+  "author": "Osayuk1",
+  "main": "index.ts"
+}
