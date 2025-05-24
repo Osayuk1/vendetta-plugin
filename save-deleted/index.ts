@@ -1,3 +1,10 @@
+export const config = {
+  name: "SaveDeleted",
+  description: "Save deleted messages locally",
+  author: "Osayuk1",
+  version: "1.0.0"
+};
+
 import { before } from "@vendetta/patcher";
 import { findByProps } from "@vendetta/metro";
 import { storage } from "@vendetta/plugin";
